@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Sistema de Controle de Almoxarifado
 Este projeto é um Sistema Web de Controle de Almoxarifado, desenvolvido com Django 5.2 em Python 3, voltado para facilitar a gestão de estoques em ambientes organizacionais.
 Focado em segurança, organização e usabilidade, o sistema é responsivo e pode ser acessado tanto em dispositivos desktop quanto móveis.
@@ -37,3 +38,6 @@ Cookies seguros (HttpOnly, Secure, SameSite) e proteção CORS.
 
 📋 Considerações Finais
 Este projeto foi uma experiência prática completa de desenvolvimento, da concepção ao produto final, demonstrando como aliar organização, segurança e eficiência em um sistema robusto e escalável.
+=======
+# iAlmox
+>>>>>>> e3a34d09accf452463a1511e572fe29f70790600
